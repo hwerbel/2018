@@ -65,7 +65,7 @@ There will be two categories of submissions:
     hard in their domain? What can be done to improve the tooling for 
     their domain?
 
-### Automated Execution and Validation Server
+### Automation Server
 
 We have an instance of Jenkins running at <http://ci.falsifiable.us>, 
 maintained by members of the [Systems Research Lab 
