@@ -5,10 +5,10 @@ feature_text: |
   First International Workshop on Practical Reproducible Evaluation of 
   Computer Systems.
 
-  In conjunction with [HPDC'18](https://hpdc.org/2018/). In 
+  In conjunction with [HPDC'18](http://hpdc.org/2018/). In 
   cooperation with (pending):
 
-  ![[SIGHPC](http://www.sighpc.org)](/assets/SIGhpc_logo_small.png)
+  ![[SIGHPC](http://www.sighpc.org)](assets/SIGhpc_logo_small.png)
 feature_image: ""
 excerpt: "This workshop is going to be fun."
 ---
