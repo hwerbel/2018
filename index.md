@@ -57,13 +57,14 @@ There will be two categories of submissions:
     agenda comes out of this and that we can create a community that 
     meets yearly to report on our status in addressing these problems.
 
-  * **Experience papers**. We will encourage the community to make use 
-    of an automated service (see subsection below). Based on their 
-    experience in automating one or more experiments, the committee 
-    will look for submissions reporting on their experience: what 
-    worked? What aspects of experiment automation and validation are 
-    hard in their domain? What can be done to improve the tooling for 
-    their domain?
+  * **Experience papers**. This category consist of papers reporting 
+    on the authors' experience in automating one or more 
+    experimentation pipelines. We have an instance of an automation 
+    server available for the community to use (see subsection below). 
+    The committee will look for submissions reporting on their 
+    experience: what worked? What aspects of experiment automation and 
+    validation are hard in their domain? What can be done to improve 
+    the tooling for their domain?
 
 ### Automation Server
 
@@ -76,10 +77,11 @@ create an account and use this service
 [here](http://popper.readthedocs.io/en/latest/ci/jenkins.html#ci-falsifiable-us).
 
 > **NOTE**: Using the server at <http://ci.falsifiable.us> is not 
-> obligatory for submissions to be considered for the Experience Paper 
-> category. Instead, we will require authors to provide a URL to the 
-> service they use (e.g., TravisCI) so reviewers can verify that there 
-> is one or more automated pipelines associated to the submission.
+> obligatory for submissions to be considered for the _Experience 
+> Paper_ category. Instead, we will require authors to provide a URL 
+> to the service they use (e.g., TravisCI) so reviewers can verify 
+> that there is one or more automated pipelines associated to the 
+> submission.
 
 ## Important Dates
 
