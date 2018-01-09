@@ -74,17 +74,15 @@ there is no page limit. Submissions must use the [ACM Master
 Template](https://www.acm.org/publications/proceedings-template) 
 (please use the `sigconf` format with default options).
 
-**Submit via EasyChair**: <https://easychair.org/cfp/p-recs2018>
+**Submit via [EasyChair](<https://easychair.org/cfp/p-recs2018>)**
 
 **Proceedings**: The proceedings will be archived in both the ACM 
 Digital Library and IEEE Xplore through SIGHPC.
 
-**Tools**: This tools can aid in the automation of experiments:
-
-  * [ReproZip](http://reprozip.org)
-  * [Sciunit](http://sciunit.run)
-  * [Sumatra](https://github.com/open-research/sumatra)
-  * [Popper](https://github.com/systemslab/popper)
+**Tools**: This tools can aid in the automation of experiments: 
+[ReproZip](http://reprozip.org), [Sciunit](http://sciunit.run), 
+[Sumatra](https://github.com/open-research/sumatra), 
+[Popper](https://github.com/systemslab/popper).
 
 ## Important Dates
 
