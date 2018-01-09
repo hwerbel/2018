@@ -13,7 +13,6 @@ feature_image: ""
 excerpt: "This workshop is going to be fun."
 ---
 
-
 Independent evaluation of experimental results in the area of computer 
 and networking systems is a challenging task. Recreating the 
 environment where an experiment originally ran is commonly considered 
@@ -49,45 +48,49 @@ We expect submissions from topics such as, but not limited to:
 
 ## Submission
 
-There will be two categories of submissions:
+We look for two categories of submissions:
 
-  * **Position papers**. These will be vision papers whose goal is to 
+  * **Position papers**. This category is for papers whose goal is to 
     propose solutions (or scope the work that needs to be done) to 
     address some of the issues outlined above. We hope that a research 
     agenda comes out of this and that we can create a community that 
     meets yearly to report on our status in addressing these problems.
 
-  * **Experience papers**. This category consist of papers reporting 
+  * **Experience papers**. This category consists of papers reporting 
     on the authors' experience in automating one or more 
-    experimentation pipelines. We have an instance of an automation 
-    server available for the community to use (see subsection below). 
-    The committee will look for submissions reporting on their 
-    experience: what worked? What aspects of experiment automation and 
-    validation are hard in their domain? What can be done to improve 
-    the tooling for their domain?
+    experimentation pipelines. The committee will look for submissions 
+    reporting on their experience: what worked? What aspects of 
+    experiment automation and validation are hard in their domain? 
+    What can be done to improve the tooling for their domain? As part 
+    of the submission, authors need to provide a URL to the automation 
+    service they use (e.g., TravisCI, GitLabCI, CircleCI or Jenkins) 
+    so reviewers can verify that there is one or more automated 
+    pipelines associated to the submission.
 
-### Automation Server
+**Format**: Authors are invited to submit manuscripts in English not 
+exceeding 5 pages of content. The 5-page limit includes figures, 
+tables and appendices, but does not include references, for which 
+there is no page limit. Submissions must use the [ACM Master 
+Template](https://www.acm.org/publications/proceedings-template) 
+(please use the `sigconf` format with default options).
 
-We have an instance of Jenkins running at <http://ci.falsifiable.us>, 
-maintained by members of the [Systems Research Lab 
-(SRL)](https://systemslab.github.io) at UC Santa Cruz. This service 
-allows researchers and students to automate the execution and 
-validation of experimentation pipelines. See instructions on how to 
-create an account and use this service 
-[here](http://popper.readthedocs.io/en/latest/ci/jenkins.html#ci-falsifiable-us).
+**Submit via EasyChair**: <https://easychair.org/cfp/p-recs2018>
 
-> **NOTE**: Using the server at <http://ci.falsifiable.us> is not 
-> obligatory for submissions to be considered for the _Experience 
-> Paper_ category. Instead, we will require authors to provide a URL 
-> to the service they use (e.g., TravisCI) so reviewers can verify 
-> that there is one or more automated pipelines associated to the 
-> submission.
+**Proceedings**: The proceedings will be archived in both the ACM 
+Digital Library and IEEE Xplore through SIGHPC.
+
+**Tools**: This tools can aid in the automation of experiments:
+
+  * [ReproZip](http://reprozip.org)
+  * [Sciunit](http://sciunit.run)
+  * [Sumatra](https://github.com/open-research/sumatra)
+  * [Popper](https://github.com/systemslab/popper)
 
 ## Important Dates
 
-  * Submissions due: April 1, 2018
-  * Acceptance notification: April 20, 2018
-  * Camera-ready paper submission: May 10, 2018
+  * Submissions due: April 2, 2018
+  * Acceptance notification: April 30, 2018
+  * Camera-ready paper submission: May 6, 2018
   * Workshop: June 11, 2018
 
 ## Organizers
@@ -99,22 +102,23 @@ create an account and use this service
 
 ## Program Committee
 
-  * Michela Taufer, University of Delaware
-  * Victoria Stodden, UIUC
-  * Torsten Hoefler, ETH Zürich
-  * Reed Milewicz, Sandia National Laboratories
-  * Anja Feldmann, TU Berlin
-  * Dan Katz, NCSA
-  * Michael Zink, UMass Amherst
-  * Todd Gamblin, LLNL
-  * Arnaud Legrand, Bâtiment IMAG
-  * Violet R. Syrotiuk, ASU
-  * Ignacio Laguna, LLNL
   * Divyashri Bhat, UMass Amherst
-  * Kate Keahey, Argonne National Lab / ChameleonCloud
-  * Robert Ricci, University of Utah / CloudLab
-  * Neil Chue Hong, Software Sustainability Institute / University of Edinburgh, UK
+  * Anja Feldmann, TU Berlin
+  * Todd Gamblin, LLNL
   * Mike Heroux, Sandia National Laboratories
+  * Torsten Hoefler, ETH Zürich
+  * Neil Chue Hong, Software Sustainability Institute / University of 
+    Edinburgh, UK
+  * Dan Katz, NCSA
+  * Kate Keahey, Argonne National Lab / ChameleonCloud
+  * Ignacio Laguna, LLNL
+  * Arnaud Legrand, Bâtiment IMAG
+  * Reed Milewicz, Sandia National Laboratories
+  * Robert Ricci, University of Utah / CloudLab
+  * Victoria Stodden, UIUC
+  * Violet R. Syrotiuk, ASU
+  * Michela Taufer, University of Delaware
+  * Michael Zink, UMass Amherst
 
 ## Contact
 
