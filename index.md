@@ -48,7 +48,8 @@ We expect submissions from topics such as, but not limited to:
 
 ## Submission
 
-We look for two categories of submissions:
+Submit via [EasyChair](<https://easychair.org/cfp/p-recs2018>). We 
+look for two categories of submissions:
 
   * **Position papers**. This category is for papers whose goal is to 
     propose solutions (or scope the work that needs to be done) to 
@@ -67,19 +68,23 @@ We look for two categories of submissions:
     so reviewers can verify that there is one or more automated 
     pipelines associated to the submission.
 
-**Format**: Authors are invited to submit manuscripts in English not 
-exceeding 5 pages of content. The 5-page limit includes figures, 
-tables and appendices, but does not include references, for which 
-there is no page limit. Submissions must use the [ACM Master 
+### Format
+
+Authors are invited to submit manuscripts in English not exceeding 5 
+pages of content. The 5-page limit includes figures, tables and 
+appendices, but does not include references, for which there is no 
+page limit. Submissions must use the [ACM Master 
 Template](https://www.acm.org/publications/proceedings-template) 
 (please use the `sigconf` format with default options).
 
-**Submit via [EasyChair](<https://easychair.org/cfp/p-recs2018>)**
+### Proceedings
 
-**Proceedings**: The proceedings will be archived in both the ACM 
-Digital Library and IEEE Xplore through SIGHPC.
+The proceedings will be archived in both the ACM Digital Library and 
+IEEE Xplore through SIGHPC.
 
-**Tools**: This tools can aid in the automation of experiments: 
+### Tools
+
+These tools can be optionally used used to automate your experiments: 
 [ReproZip](http://reprozip.org), [Sciunit](http://sciunit.run), 
 [Sumatra](https://github.com/open-research/sumatra), 
 [Popper](https://github.com/systemslab/popper).
