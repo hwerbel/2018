@@ -111,14 +111,14 @@ These tools can be optionally used used to automate your experiments:
 ## Program Committee
 
   * Divyashri Bhat, UMass Amherst
-  * Michael Crusoe, CWL Project Lead
+  * Michael R. Crusoe, Project Lead, Common Workflow Language project
   * Anja Feldmann, TU Berlin
   * Todd Gamblin, LLNL
   * Mike Heroux, Sandia National Laboratories
   * Torsten Hoefler, ETH Zürich
   * Neil Chue Hong, Software Sustainability Institute / University of 
     Edinburgh, UK
-  * Dan Katz, NCSA
+  * Dan Katz, NCSA, UIUC
   * Kate Keahey, Argonne National Lab / ChameleonCloud
   * Ignacio Laguna, LLNL
   * Arnaud Legrand, Bâtiment IMAG
