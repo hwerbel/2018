@@ -5,8 +5,8 @@ feature_text: |
   First International Workshop on Practical Reproducible Evaluation of 
   Computer Systems.
 
-  In conjunction with [HPDC'18](http://hpdc.org/2018/). In 
-  cooperation with (pending):
+  June 11, 2018. In conjunction with [HPDC'18](http://hpdc.org/2018/). 
+  In cooperation with (pending):
 
   ![[SIGHPC](http://www.sighpc.org)](assets/SIGhpc_logo_small.png)
 feature_image: ""
@@ -48,8 +48,9 @@ We expect submissions from topics such as, but not limited to:
 
 ## Submission
 
-Submit via [EasyChair](<https://easychair.org/cfp/p-recs2018>). We 
-look for two categories of submissions:
+Submit via 
+[EasyChair](https://easychair.org/conferences/?conf=precs18). We look 
+for two categories of submissions:
 
   * **Position papers**. This category is for papers whose goal is to 
     propose solutions (or scope the work that needs to be done) to 
@@ -61,12 +62,15 @@ look for two categories of submissions:
     on the authors' experience in automating one or more 
     experimentation pipelines. The committee will look for submissions 
     reporting on their experience: what worked? What aspects of 
-    experiment automation and validation are hard in their domain? 
-    What can be done to improve the tooling for their domain? As part 
-    of the submission, authors need to provide a URL to the automation 
-    service they use (e.g., TravisCI, GitLabCI, CircleCI or Jenkins) 
-    so reviewers can verify that there is one or more automated 
-    pipelines associated to the submission.
+    experiment automation and validation are hard in your domain? What 
+    can be done to improve the tooling for your domain? As part of the 
+    submission, authors need to provide a URL to the automation 
+    service they use (e.g., [TravisCI](https://travis-ci.org), 
+    [GitLabCI](https://about.gitlab.com/gitlab-ci/), 
+    [CircleCI](https://circleci.com), 
+    [Jenkins](https://jenkins-ci.org), etc.) so reviewers can verify 
+    that there is one or more automated pipelines associated to the 
+    submission.
 
 ### Format
 
@@ -85,9 +89,10 @@ IEEE Xplore through SIGHPC.
 ### Tools
 
 These tools can be optionally used used to automate your experiments: 
+[CWL](http://commonwl.org), 
+[Popper](https://github.com/systemslab/popper), 
 [ReproZip](http://reprozip.org), [Sciunit](http://sciunit.run), 
-[Sumatra](https://github.com/open-research/sumatra), 
-[Popper](https://github.com/systemslab/popper).
+[Sumatra](https://github.com/open-research/sumatra).
 
 ## Important Dates
 
@@ -106,6 +111,7 @@ These tools can be optionally used used to automate your experiments:
 ## Program Committee
 
   * Divyashri Bhat, UMass Amherst
+  * Michael Crusoe, CWL Project Lead
   * Anja Feldmann, TU Berlin
   * Todd Gamblin, LLNL
   * Mike Heroux, Sandia National Laboratories
