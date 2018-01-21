@@ -13,18 +13,15 @@ feature_image: ""
 excerpt: "This workshop is going to be fun."
 ---
 
-Independent evaluation of experimental results in the area of computer 
-and networking systems is a challenging task. Recreating the 
-environment where an experiment originally ran is commonly considered 
-impractical or even impossible. This workshop will focus heavily on 
-practical, actionable aspects of reproducibility in broad areas of 
-computational science and data exploration, with special emphasis on 
-issues in which community collaboration can be essential for adopting 
-novel methodologies, techniques and frameworks aimed at addressing 
-some of the challenges we face today. The workshop will bring together 
-researchers and experts to share experiences and advance the state of 
-the art in the reproducible evaluation of computer systems, featuring 
-contributed papers and invited talks.
+This workshop will focus heavily on practical, actionable aspects of 
+reproducibility in broad areas of computational science and data 
+exploration, with special emphasis on issues in which community 
+collaboration can be essential for adopting novel methodologies, 
+techniques and frameworks aimed at addressing some of the challenges 
+we face today. The workshop will bring together researchers and 
+experts to share experiences and advance the state of the art in the 
+reproducible evaluation of computer systems, featuring contributed 
+papers and invited talks.
 
 ## Topics
 
