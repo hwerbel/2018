@@ -103,7 +103,8 @@ These tools can be optionally used used to automate your experiments:
   * [Ivo Jimenez](https://cs.ucsc.edu/~ivo), UC Santa Cruz
   * [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/), UC Santa 
     Cruz
-  * [Jay Lofstead](www.lofstead.org), Sandia National Laboratories
+  * [Jay Lofstead](http://www.lofstead.org), Sandia National 
+    Laboratories
 
 ## Program Committee
 
