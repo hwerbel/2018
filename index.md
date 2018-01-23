@@ -118,7 +118,7 @@ These tools can be optionally used used to automate your experiments:
   * Dan Katz, NCSA, UIUC
   * Kate Keahey, Argonne National Lab / ChameleonCloud
   * Ignacio Laguna, LLNL
-  * Arnaud Legrand, Bâtiment IMAG
+  * Arnaud Legrand, CNRS/Inria/University of Grenoble
   * Reed Milewicz, Sandia National Laboratories
   * Robert Ricci, University of Utah / CloudLab
   * Victoria Stodden, UIUC
