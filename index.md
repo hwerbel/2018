@@ -45,7 +45,7 @@ We expect submissions from topics such as, but not limited to:
 
 ## Submission
 
-Submit via 
+Submit (single-blind) via 
 [EasyChair](https://easychair.org/conferences/?conf=precs18). We look 
 for two categories of submissions:
 
