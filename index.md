@@ -100,7 +100,7 @@ These tools can be optionally used used to automate your experiments:
 
 ## Organizers
 
-  * [Ivo Jimenez](https://cs.ucsc.edu/~ivo), UC Santa Cruz
+  * [Ivo Jimenez](http://ivotron.me), UC Santa Cruz
   * [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/), UC Santa 
     Cruz
   * [Jay Lofstead](http://www.lofstead.org), Sandia National 
