@@ -6,9 +6,9 @@ feature_text: |
   Computer Systems.
 
   June 11, 2018. In conjunction with [HPDC'18](http://hpdc.org/2018/). 
-  In cooperation with (pending):
+  In cooperation with:
 
-  ![[SIGHPC](http://www.sighpc.org)](assets/SIGhpc_logo_small.png)
+  ![[In cooperation with ACM](http://www.acm.org)](assets/acm-in-cooperation.png)      ![[In cooperation with SIGHPC](http://www.sighpc.org)](assets/sighpc.png)
 feature_image: ""
 excerpt: "This workshop is going to be fun."
 ---
