@@ -85,8 +85,8 @@ IEEE Xplore through SIGHPC.
 
 ### Tools
 
-These tools can be optionally used used to automate your experiments: 
-[CWL](http://commonwl.org), 
+These tools can be optionally used used to automate your experiments 
+(not an exhaustive list): [CWL](http://commonwl.org), 
 [Popper](https://github.com/systemslab/popper), 
 [ReproZip](http://reprozip.org), [Sciunit](http://sciunit.run), 
 [Sumatra](https://github.com/open-research/sumatra).
