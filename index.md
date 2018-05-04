@@ -95,7 +95,7 @@ These tools can be optionally used used to automate your experiments
 
   * Submissions due: ~~April 2~~ April 9, 2018 (AoE)
   * Acceptance notification: April 30, 2018
-  * Camera-ready paper submission: May 6, 2018
+  * Camera-ready paper submission: May 8, 2018
   * Workshop: June 11, 2018
 
 ## Organizers
