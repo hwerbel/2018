@@ -85,8 +85,10 @@ avatarurl: "https://www.gravatar.com/avatar/?d=blank" # Uses avatars for favicon
 
 # 8. Site navigation
 navigation_header:
-  Submission: /#submission
-  Dates: /#important-dates
+  Topics: /#topics
+  Program: /#program
+  Papers: /#accepted-papers
+  Registration: /#registration
   Organization: /#organizers
   Contact: /#contact
 

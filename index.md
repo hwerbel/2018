@@ -85,11 +85,90 @@ IEEE Xplore through SIGHPC.
 
 ### Tools
 
-These tools can be optionally used used to automate your experiments 
-(not an exhaustive list): [CWL](http://commonwl.org), 
+These tools can be used used to automate your experiments (not an 
+exhaustive list): [CWL](http://commonwl.org), 
 [Popper](https://github.com/systemslab/popper), 
 [ReproZip](http://reprozip.org), [Sciunit](http://sciunit.run), 
 [Sumatra](https://github.com/open-research/sumatra).
+
+## Accepted Papers
+
+* Abdulqawi Saif, Alexandre Merlin, Lucas Nussbaum, and Ye-Qiong Song. 
+  _MonEx: An Integrated Experiment Monitoring Framework Standing on 
+  Off-The-Shelf Components_.
+
+* Quan Pham, Tanu Malik, Dai Hai Ton That, and Andrew Youngdahl. 
+  _Improving Reproducibility of Distributed Computational 
+  Experiments_.
+
+* Victoria Stodden, Matthew S. Krafczyk, and Adhithya Bhaskar. 
+  _Enabling the Verification of Computational Results: An Empirical 
+  Evaluation of Computational Reproducibility_.
+
+* Michael A. Sevilla and Carlos Maltzahn. _Popper Pitfalls: 
+  Experiences Following a Reproducibility Convention_.
+
+* David Wilkinson, Luís Oliveira, Daniel Mossé, and Bruce Childers. 
+  _Software Provenance: Track the Reality Not the Virtual Machine_. 
+
+* Luís Oliveira, David Wilkinson, Daniel Mossé, and Bruce Childers. 
+  _Supporting Long-term Reproducible Software Execution_.
+
+## Program
+
+### Schedule
+
+| |
+|-|
+| `07:30-08:45` - Breakfast |
+| `08:45-09:00` - Welcome |
+| `09:00-10:00` - Keynote (Dr. Fatma Deniz) |
+| `10:00-10:30` - Coffee break |
+| `10:30-11:00` - Lightning talks |
+| `11:00-12:00` - Paper Presentations 1 (20 mins each) |
+| `12:00-13:00` - Lunch (hosted by HPDC) |
+| `13:00-14:30` - Paper Presentations 2 (20 mins each) |
+| `14:30-15:00` - Coffee break |
+| `15:00-16:00` - Panel |
+| `16:00-17:00` - Poster session |
+
+### Keynote Address
+
+{% include figure.html image="assets/fatma.png" position="left" %}
+
+<small>
+[Dr. Fatma Deniz](https://bids.berkeley.edu/people/fatma-imamoglu) is 
+a Moore-Sloan Data Science Fellow in [Berkeley Institute for Data 
+Science](http://bids.berkeley.edu/), a Postdoctoral-Fellow in [Dr. 
+Jack Gallant’s laboratory](http://gallantlab.org/) ([Helen Wills 
+Neuroscience Institute](http://neuroscience.berkeley.edu/)) at the 
+University of California, Berkeley and a visiting scientist at the 
+Technical University Berlin. She is interested in how sensory 
+information is encoded in the brain and uses machine-learning 
+approaches to fit computational models to large-scale brain data. Her 
+current work focuses on cross-modal language representation in the 
+human brain. She did her PhD in [Dr. John-Dylan Haynes’s 
+laboratory](https://sites.google.com/site/hayneslab/home) at Bernstein 
+Center for Computational Neuroscience and Technical University Berlin, 
+where she studied functional connectivity changes during conscious 
+perception in humans. She got a bachelor’s and master’s degrees in 
+Computer Science from the Technical University Munich. During her 
+master’s work, Dr. Deniz worked with [Dr. Christof 
+Koch](http://www.klab.caltech.edu/koch) at Caltech, where she studied 
+visual saliency and automated text detection. As an advocate of 
+reproducible research practices, she is the editor of the book titled 
+“The Practice of Reproducible Research”. In addition, she works on 
+improving Internet security applications using knowledge gained from 
+cognitive neuroscience and Mooney images 
+([mooneyauth.org](http://mooneyauth.org/)). Her work is at the 
+intersection between computer science, human cognition, and 
+neuroscience. She is a passionate coder, baker and loves playing the 
+cello.</small>
+
+## Registration
+
+To register for the workshop, go to the [HPDC registration 
+page](http://www.hpdc.org/2018/registration/).
 
 ## Important Dates
 
