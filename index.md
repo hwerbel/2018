@@ -124,8 +124,8 @@ exhaustive list): [CWL](http://commonwl.org),
 | `08:45-09:00` - Welcome |
 | `09:00-10:00` - Keynote (Dr. Fatma Deniz) |
 | `10:00-10:30` - Coffee break |
-| `10:30-11:00` - Lightning talks |
-| `11:00-12:00` - Paper Presentations 1 (20 mins each) |
+| `10:30-10:45` - Lightning talks |
+| `10:45-12:00` - Paper Presentations 1 (20 mins each) |
 | `12:00-13:00` - Lunch (hosted by HPDC) |
 | `13:00-14:30` - Paper Presentations 2 (20 mins each) |
 | `14:30-15:00` - Coffee break |
