@@ -137,8 +137,27 @@ exhaustive list): [CWL](http://commonwl.org),
 {% include figure.html image="assets/fatma.png" position="left" %}
 
 <small>
-[Dr. Fatma Deniz](https://bids.berkeley.edu/people/fatma-imamoglu) is 
-a Moore-Sloan Data Science Fellow in [Berkeley Institute for Data 
+**Abstract**: Establishing generalizable findings from systematic 
+empirical observations is at the core of the modern scientific method. 
+Reproducible research practices can help scientists arrive at results 
+that flourish new theories and technological advances. Importantly, it 
+enables the scientific community to corroborate published results and 
+theories. In my talk, I will start by introducing reproducibility and 
+what it means to aim reproducible research practices. I will then 
+present technical tools and data science practices that can 
+incorporate reproducible research in a scientist’s everyday workflow. 
+I will discuss how we can use these tools and practices to conduct 
+large-scale data exploration and computational science by introducing 
+case studies from data-intensive sciences. I will finish my talk by 
+providing my account of reproducible research, where I will present a 
+web-based replication engine 
+(<https://boldpredictions.gallantlab.org>) that uses data derived from 
+naturalistic neuroimaging experiments to simulate a variety of 
+language experiments.
+
+**Bio**: [Dr. Fatma 
+Deniz](https://bids.berkeley.edu/people/fatma-imamoglu) is a 
+Moore-Sloan Data Science Fellow in [Berkeley Institute for Data 
 Science](http://bids.berkeley.edu/), a Postdoctoral-Fellow in [Dr. 
 Jack Gallant’s laboratory](http://gallantlab.org/) ([Helen Wills 
 Neuroscience Institute](http://neuroscience.berkeley.edu/)) at the 
