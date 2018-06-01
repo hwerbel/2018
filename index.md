@@ -154,7 +154,8 @@ web-based replication engine
 (<https://boldpredictions.gallantlab.org>) that uses data derived from 
 naturalistic neuroimaging experiments to simulate a variety of 
 language experiments.
-
+</small>
+<small>
 **Bio**: [Dr. Fatma 
 Deniz](https://bids.berkeley.edu/people/fatma-imamoglu) is a 
 Moore-Sloan Data Science Fellow in [Berkeley Institute for Data 
