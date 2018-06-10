@@ -129,30 +129,30 @@ exhaustive list): [CWL](http://commonwl.org),
 | `12:00-13:00` - Lunch (hosted by HPDC) |
 | `13:00-14:30` - Paper Presentations 2 |
 | `14:30-15:00` - Coffee break |
-| `15:00-16:00` - Panel |
+| `15:00-16:00` - Panel (Moderator: Victoria Stodden) |
 | `16:00-17:00` - Poster session |
 
 ### Paper Session 1 (chair: Jay Lofstead)
 
-  * Abdulqawi Saif, Alexandre Merlin, Lucas Nussbaum, and Ye-Qiong 
+ 1. Abdulqawi Saif, Alexandre Merlin, Lucas Nussbaum, and Ye-Qiong 
     Song. An Integrated Experiment Monitoring Framework Standing on 
     Off-The-Shelf Components.
-  * Luís Oliveira, David Wilkinson, Daniel Mossé, and Bruce Childers. 
+ 2. Luís Oliveira, David Wilkinson, Daniel Mossé, and Bruce Childers. 
     Supporting Long-term Reproducible Software Execution.
-  * Quan Pham, Tanu Malik, Dai Hai Ton That, and Andrew Youngdahl. 
+ 3. Quan Pham, Tanu Malik, Dai Hai Ton That, and Andrew Youngdahl. 
     Improving Reproducibility of Distributed Computational 
     Experiments.
 
 ### Paper Session 2 (chair: Carlos Maltzahn)
 
-  * Jay Jay Billings. Applying Distributed Ledgers to Manage Workflow 
+ 1. Jay Jay Billings. Applying Distributed Ledgers to Manage Workflow 
     Provenance.
-  * David Wilkinson, Luís Oliveira, Daniel Mossé, and Bruce Childers. 
+ 2. David Wilkinson, Luís Oliveira, Daniel Mossé, and Bruce Childers. 
     Software Provenance: Track the Reality Not the Virtual Machine.
-  * Victoria Stodden, Matthew S. Krafczyk, and Adhithya Bhaskar. 
+ 3. Victoria Stodden, Matthew S. Krafczyk, and Adhithya Bhaskar. 
     Enabling the Verification of Computational Results: An Empirical 
     Evaluation of Computational Reproducibility.
-  * Michael A. Sevilla and Carlos Maltzahn. Popper Pitfalls: 
+ 4. Michael A. Sevilla and Carlos Maltzahn. Popper Pitfalls: 
     Experiences Following a Reproducibility Convention.
 
 ### Keynote Address
