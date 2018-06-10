@@ -125,12 +125,35 @@ exhaustive list): [CWL](http://commonwl.org),
 | `09:00-10:00` - Keynote (Dr. Fatma Deniz) |
 | `10:00-10:30` - Coffee break |
 | `10:30-10:45` - Lightning talks |
-| `10:45-12:00` - Paper Presentations 1 (20 mins each) |
+| `10:45-12:00` - Paper Presentations 1 |
 | `12:00-13:00` - Lunch (hosted by HPDC) |
-| `13:00-14:30` - Paper Presentations 2 (20 mins each) |
+| `13:00-14:30` - Paper Presentations 2 |
 | `14:30-15:00` - Coffee break |
 | `15:00-16:00` - Panel |
 | `16:00-17:00` - Poster session |
+
+### Paper Session 1 (chair: Jay Lofstead)
+
+  * Abdulqawi Saif, Alexandre Merlin, Lucas Nussbaum, and Ye-Qiong 
+    Song. An Integrated Experiment Monitoring Framework Standing on 
+    Off-The-Shelf Components.
+  * Luís Oliveira, David Wilkinson, Daniel Mossé, and Bruce Childers. 
+    Supporting Long-term Reproducible Software Execution.
+  * Quan Pham, Tanu Malik, Dai Hai Ton That, and Andrew Youngdahl. 
+    Improving Reproducibility of Distributed Computational 
+    Experiments.
+
+### Paper Session 2 (chair: Carlos Maltzahn)
+
+  * Jay Jay Billings. Applying Distributed Ledgers to Manage Workflow 
+    Provenance.
+  * David Wilkinson, Luís Oliveira, Daniel Mossé, and Bruce Childers. 
+    Software Provenance: Track the Reality Not the Virtual Machine.
+  * Victoria Stodden, Matthew S. Krafczyk, and Adhithya Bhaskar. 
+    Enabling the Verification of Computational Results: An Empirical 
+    Evaluation of Computational Reproducibility.
+  * Michael A. Sevilla and Carlos Maltzahn. Popper Pitfalls: 
+    Experiences Following a Reproducibility Convention.
 
 ### Keynote Address
 
@@ -183,7 +206,8 @@ cognitive neuroscience and Mooney images
 ([mooneyauth.org](http://mooneyauth.org/)). Her work is at the 
 intersection between computer science, human cognition, and 
 neuroscience. She is a passionate coder, baker and loves playing the 
-cello.</small>
+cello.
+</small>
 
 ## Registration
 
